@@ -3,7 +3,11 @@ touch text.txt
 code text.txt
 git add 
 git commit -m "coment"
-git branch ""
+git branch "parallel"
+git checkout parallel
+git merge parallel
 git remote add origin "URL".git
 git push -u origin master
 git clone -m "coment"
+
+ HELLO,WORLD
