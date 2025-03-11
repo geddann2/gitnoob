@@ -1,0 +1,9 @@
+git init
+touch text.txt
+code text.txt
+git add 
+git commit -m "coment"
+git branch ""
+git remote add origin "URL".git
+git push -u origin master
+git clone -m "coment"
