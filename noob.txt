@@ -9,5 +9,9 @@ git merge parallel
 git remote add origin "URL".git
 git push -u origin master
 git clone -m "coment"
+git fetch
+git status -s
+git revert --no-edit
+
 
  HELLO,WORLD
